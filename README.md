@@ -12,7 +12,7 @@ This repository contains the complete source code for the Tic Tac Toe Game proje
 
 ### URL
 
-- [Tic Tac Toe Game](https://darshitdudhaiya.github.io/Tic-Tac-Toe/))
+- [Tic Tac Toe Game](https://darshitdudhaiya.github.io/Tic-Tac-Toe/)
 
 ### Author
 
